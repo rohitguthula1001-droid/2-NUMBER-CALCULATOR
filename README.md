@@ -40,7 +40,7 @@ This project demonstrates some basic programming concepts:
 
 ## 📚 Learning Purpose
 
-This project was built as a beginner programming project to understand how different programming concepts can be combined to create a functional application.
+This project was built as a personal-beginner programming project to understand how different programming concepts can be combined to create a functional application.
 
 It is a small project, but it helped me practice the fundamentals needed for larger programming projects.
 
